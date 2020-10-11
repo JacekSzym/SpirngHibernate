@@ -1,0 +1,1 @@
+create DATABASE springhibernate CHARACTER SET UTF8 COLLATE UTF8_general_ci;
